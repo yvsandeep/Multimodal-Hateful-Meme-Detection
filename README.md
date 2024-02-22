@@ -32,7 +32,7 @@ The dataset, created by FacebookAI, consists of 10,000 images in JSONL format, i
 - Improvement in accuracy and AUC scores with multi-modal approaches compared to unimodal ones.
 ![Results](img/Results.png)
 - The best performance achieved with the MMBT + CLIP approach.
-![MMBT_CLIP](img/mmbt_clip_results.png)
+![MMBT_CLIP](img/mmbt+clip_results.png)
 
 ## Future Work
 - Exploring better feature processing methods.
