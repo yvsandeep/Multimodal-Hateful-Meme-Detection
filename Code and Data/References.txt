@@ -1,0 +1,10 @@
+References for the project
+
+1. Visual Bert : https://arxiv.org/abs/1908.03557
+2. CLIP:https://openai.com/research/clip
+3. Facebook Meme competition: https://ai.meta.com/blog/hateful-memes-challenge-and-data-set/
+4. Dataset Augmentation Approach: https://github.com/dsfsi/textaugment#eda-easy-data-augmentation-techniques-for-boosting-performance-on-text-classification-tasks
+5. CLIP + MMBT approach: https://towardsdatascience.com/how-to-get-high-score-using-mmbt-and-clip-in-hateful-memes-competition-90bfa65cb117
+6. Facebook Deep face link: https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/
+7. Google Web detection model: https://cloud.google.com/vision/docs/detecting-web
+8. Previous Implementation for Hateful meme model: https://github.com/Ikea-179/Hateful-Meme-Detection
